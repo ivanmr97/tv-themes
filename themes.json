@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "themes": [
+    {
+      "id": "onepiece",
+      "name": "One Piece Edition",
+      "author": "Ivan OS",
+      "bgm_title": "♫  ONE PIECE BGM",
+      "header_sub": "⚔  ONE PIECE EDITION • IVAN OS",
+      "accent_color": "#f5c542",
+      "preview": "https://github.com/ivanmr97/tv-themes/blob/main/previews/onepiece.jpg?raw=true",
+      "video_url": "file:///home/root/custom-home/onepiece-backup.mp4",
+      "description": "Thousand Sunny surcando el océano bajo tormenta épica con la banda sonora original a 60 FPS."
+    },
+    {
+      "id": "polar-express",
+      "name": "The Polar Express",
+      "author": "Ivan OS",
+      "bgm_title": "♫  When Christmas Comes to Town",
+      "header_sub": "❄️  THE POLAR EXPRESS • IVAN OS",
+      "accent_color": "#38bdf8",
+      "preview": "https://github.com/ivanmr97/tv-themes/blob/main/previews/polar-express.jpg?raw=true",
+      "video_url": "https://github.com/ivanmr97/tv-themes/releases/download/PE1.0/polar-express-combined.mp4",
+      "description": "El Expreso Polar atravesando la noche nevada hacia el Polo Norte con el tema navideño oficial."
+    }
+  ]
+}
